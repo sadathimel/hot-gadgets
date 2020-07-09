@@ -1,0 +1,43 @@
+.container{
+    margin-bottom: 50px;
+}
+.bye-now-button{
+    background-image: linear-gradient(to bottom, black 0% , black 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.carousel-item{
+    padding: 20px;
+}
+.see-all{
+    margin-bottom: 30px;
+}
+.see-all h3 a {
+    color: #FFA132;
+    text-decoration: none;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.categories{
+    margin: 30px;
+    
+
+}
+.cat1{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 30px 20px;
+    
+}
+.underline{
+    margin: auto;
+    border: 4px solid  #FFA132;
+    width: 145px;
+    border-radius: 5px;
+}
